@@ -9,6 +9,7 @@
 
 ## Pending 🏗️
 
+- [ ] AWS Secrets.
 - [ ] Implement the Lambda code.
 - [ ] API Gateway.
 - [ ] AWS Amplify.
